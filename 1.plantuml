@@ -1,0 +1,10 @@
+@startuml
+actor a
+participant b
+
+
+== test flow ==
+a -> b: hello
+
+
+@enduml
